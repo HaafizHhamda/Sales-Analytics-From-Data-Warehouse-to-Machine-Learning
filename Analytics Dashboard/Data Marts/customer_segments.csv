@@ -1,0 +1,4 @@
+segment,customer_count,transaction_count,total_sales,total_profit,avg_transaction_value,avg_revenue_per_customer,profit_margin_pct
+Consumer,409,5191,1161401.34,134119.33,223.73,2839.61,11.55
+Corporate,236,3020,706146.44,91979.45,233.82,2992.15,13.03
+Home Office,148,1783,429653.29,60299.01,240.97,2903.06,14.03

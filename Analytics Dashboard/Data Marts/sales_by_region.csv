@@ -1,0 +1,50 @@
+region,country,state,customer_count,transaction_count,total_sales,total_profit,avg_transaction_value,profit_margin_pct
+West,United States,California,577,2001,457687.68,76381.6,228.73,16.69
+East,United States,New York,415,1128,310876.2,74038.64,275.6,23.82
+West,United States,Washington,224,506,138641.29,33402.7,273.99,24.09
+Central,United States,Michigan,106,255,76269.61,24463.15,299.1,32.07
+South,United States,Virginia,107,224,70636.72,18598.0,315.34,26.33
+Central,United States,Indiana,70,149,53555.36,18382.97,359.43,34.33
+South,United States,Georgia,83,184,49095.84,16250.08,266.83,33.1
+South,United States,Kentucky,58,139,36591.75,11199.7,263.25,30.61
+Central,United States,Minnesota,42,89,29863.15,10823.22,335.54,36.24
+East,United States,Delaware,43,96,27451.07,9977.37,285.95,36.35
+East,United States,New Jersey,61,130,35764.32,9772.91,275.11,27.33
+Central,United States,Wisconsin,52,110,32114.61,8401.78,291.95,26.16
+East,United States,Rhode Island,25,56,22627.96,7285.64,404.07,32.2
+East,United States,Maryland,45,105,23705.52,7031.2,225.77,29.66
+East,United States,Massachusetts,62,135,28634.44,6785.55,212.11,23.7
+Central,United States,Missouri,28,66,22205.15,6436.19,336.44,28.99
+South,United States,Alabama,34,61,19510.64,5786.85,319.85,29.66
+Central,United States,Oklahoma,34,66,19683.39,4853.98,298.23,24.66
+South,United States,Arkansas,27,60,11678.13,4008.65,194.64,34.33
+East,United States,Connecticut,43,82,13384.36,3511.44,163.22,26.24
+West,United States,Nevada,23,39,16729.1,3316.76,428.95,19.83
+South,United States,Mississippi,25,53,10771.34,3172.98,203.23,29.46
+West,United States,Utah,26,53,11220.06,2546.56,211.7,22.7
+East,United States,Vermont,5,11,8929.37,2244.98,811.76,25.14
+South,United States,Louisiana,21,42,9217.03,2196.09,219.45,23.83
+Central,United States,Nebraska,23,38,7464.93,2037.1,196.45,27.29
+West,United States,Montana,8,15,5589.35,1833.32,372.62,32.8
+South,United States,South Carolina,19,42,8481.71,1769.08,201.95,20.86
+East,United States,New Hampshire,17,27,7292.52,1706.5,270.09,23.4
+Central,United States,Iowa,17,30,4579.76,1183.81,152.66,25.85
+West,United States,New Mexico,22,37,4783.54,1157.13,129.28,24.19
+East,United States,District of Columbia,4,10,2865.02,1059.59,286.5,36.98
+Central,United States,Kansas,14,24,2914.31,836.45,121.43,28.7
+West,United States,Idaho,11,21,4382.49,826.73,208.69,18.86
+East,United States,Maine,3,8,1270.53,454.5,158.82,35.77
+Central,United States,South Dakota,5,12,1315.56,394.84,109.63,30.01
+Central,United States,North Dakota,2,7,919.91,230.14,131.42,25.02
+East,United States,West Virginia,2,4,1209.82,185.93,302.46,15.37
+West,United States,Wyoming,1,1,1603.14,100.2,1603.14,6.25
+West,United States,Oregon,51,124,17431.14,-1190.48,140.57,-6.83
+South,United States,Florida,181,383,89473.73,-3399.25,233.61,-3.8
+West,United States,Arizona,100,224,35282.02,-3427.87,157.51,-9.72
+South,United States,Tennessee,84,183,30661.92,-5341.66,167.55,-17.42
+West,United States,Colorado,75,182,32108.12,-6527.86,176.42,-20.33
+South,United States,North Carolina,122,249,55603.09,-7490.81,223.31,-13.47
+Central,United States,Illinois,237,492,80166.16,-12607.89,162.94,-15.73
+East,United States,Pennsylvania,257,587,116512.02,-15560.04,198.49,-13.35
+East,United States,Ohio,202,469,78258.21,-16971.37,166.86,-21.69
+Central,United States,Texas,370,985,170187.98,-25729.29,172.78,-15.12

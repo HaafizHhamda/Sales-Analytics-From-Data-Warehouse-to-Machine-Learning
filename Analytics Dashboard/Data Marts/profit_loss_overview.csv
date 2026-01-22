@@ -1,0 +1,5 @@
+metric_type,total_transactions,profitable_transactions,loss_transactions,break_even_transactions,total_sales,total_profit,total_loss,net_profit,loss_transaction_pct,loss_impact_pct
+Furniture,2121,1374,714,33,741999.98,79387.64,-60936.39,18451.25,33.66,-330.26
+Office Supplies,6026,5111,886,29,719046.99,179106.31,-56615.43,122490.88,14.7,-46.22
+Overall Summary,9994,8058,1871,65,2297201.07,442529.65,-156131.86,286397.79,18.72,-54.52
+Technology,1847,1573,271,3,836154.1,184035.7,-38580.04,145455.66,14.67,-26.52
